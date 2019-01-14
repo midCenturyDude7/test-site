@@ -1,6 +1,6 @@
-baseURL: https://example.com
+baseURL: https://mattgriffes.com
 languageCode: en-us
-title: Yourfolio Theme
+title: Matty G's web site
 theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 googleAnalytics: UA-XXXXX-Y
