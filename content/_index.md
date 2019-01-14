@@ -2,9 +2,9 @@
 title: Home page
 date: 2017-11-01T18:28:28+02:00
 draft: false
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
+description: 
 header:
-  description: Hi, my name is Matt. Freelance communications pro. Aspiring <span class="blue-text">data scientist</span>.
+  description: Hi, I'm Matt. Freelance communications pro. Aspiring <span class="blue-text">data scientist</span>.
   image:
     url: img/home_img.png
     alt_text: The top of mountain image
